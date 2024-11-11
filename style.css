@@ -95,7 +95,6 @@ section{
 }
 
 .home-img img{
-    height:25vw;
     width:25vw;
     border-radius: 50%;
     box-shadow: 0 0 25px var(--main-color);
